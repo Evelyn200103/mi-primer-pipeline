@@ -1,6 +1,6 @@
 // Función principal: suma dos números
 function sumar(a, b) {
-  return a * b;
+ return a + b;
 }
 
 // Servidor web minimalista
